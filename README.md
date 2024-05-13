@@ -2,6 +2,11 @@
 
 Este es el proyecto realizado como trabajo de calificación para KeepCoding®.  
 
+## Uso:  
+
+Clonar todo el repositorio, y descomprimir /data/archive.zip en su mismo directorio antes de usar el notebook para tener disponibles los datasets.  
+Mantener la estructura del repositorio.
+
 ## <span style="color:CornflowerBlue; text-decoration: underline overline;">MOTIVACIÓN:</span>
 * Aunque todo el mundo sabe lo que son los terremotos, nadie puede predecir con exactitud cuándo pasarán, o qué consecuencias tendrán, sólo se pueden hacer suposiciones
 * aproximadas.  
