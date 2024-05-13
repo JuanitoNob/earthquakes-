@@ -19,7 +19,7 @@ Nos baseremos en el <a href="https://es.wikipedia.org/wiki/Terremoto_de_Nepal_de
 \
 En Abril del 2015 hubo un terremoto en Nepal de 7.8 en la escala de Richter, a 80 kms de la icónica Katmandú seguida de más de cien réplicas, y tres semanas después otro de 7.2 que terminó  
 de asolar la región. Hubo unas 9000 víctimas mortales y casi 22000 heridos, además de muertes en India y en Tíbet.  
-Usaremos este evento en concreto por ser el que tiene uno de los más grandes y mejor documentados <a href="https://www.kaggle.com/datasets/arashnic/earthquake-magnitude-damage-and-impact/download?datasetVersionNumber=6" style="text-decoration: underline">datasets</a> de análisis del mundo.  
+Usaremos este evento en concreto por ser el que tiene uno de los más grandes y mejor documentados <a href="https://github.com/TheBadBatchProjects/earthquakes/blob/main/data/archive.zip" style="text-decoration: underline">datasets</a> de análisis del mundo.  
 Describe tanto las características de las construcciones previas al terremoto como su estado tras el seísmo, además de datos sociales y de impacto que pueden ser muy útiles tanto para análisis  
 como para predicción.
 \
