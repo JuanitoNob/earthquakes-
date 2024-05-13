@@ -43,4 +43,4 @@ este modelo podría ayudar en cualquier parte del mundo con un simple ajuste de 
 En toda la parte central y oriental del continente asiático son típicas y de uso masivo las construcciones con materiales baratos, y usando métodos de construcción con miles de años de  
 antigüedad, como barro y paja, bambú, ladrillos sin cimientos, etc..., por lo que corren riesgos masivos de daños catastróficos materiales y humanos. De hecho, hay edificaciones Patrimonio  
 de la Humanidad por su belleza, contenido cultural y gran antigüedad. Mucho de este mítico legado de la Humanidad fue destruído durante los seísmos. Dada la similitud de las construcciones  
-en toda esa mitad del continente este modelo podría resultar de aplicación casi inmediata en cualquiera de esas regiones, como comienzo de un posible programa estándar de censado de edificios  
+en toda esa mitad del continente este modelo podría resultar de aplicación casi inmediata en cualquiera de esas regiones, como comienzo de un posible programa estándar de censado de edificios.  
