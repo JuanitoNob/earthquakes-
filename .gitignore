@@ -25,3 +25,5 @@ eda_DL.ipynb
 eda.ipynb
 data/total_dataset.csv
 data/features.csv
+data/features_categorical_only
+data/features_numeric_only.csv
