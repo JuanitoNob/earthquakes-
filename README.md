@@ -49,3 +49,17 @@ En toda la parte central y oriental del continente asiático son típicas y de u
 antigüedad, como barro y paja, bambú, ladrillos sin cimientos, etc..., por lo que corren riesgos masivos de daños catastróficos materiales y humanos. De hecho, hay edificaciones Patrimonio  
 de la Humanidad por su belleza, contenido cultural y gran antigüedad. Mucho de este mítico legado de la Humanidad fue destruído durante los seísmos. Dada la similitud de las construcciones  
 en toda esa mitad del continente este modelo podría resultar de aplicación casi inmediata en cualquiera de esas regiones, como comienzo de un posible programa estándar de censado de edificios.  
+
+## <span style="color:CornflowerBlue; text-decoration: underline overline;">DESCRIPCIÓN DE LA TAREA Y ARQUITECTURA</span>  
+  
+· Nuestra tarea será de clasificación multiclase, a predecir los grados de daño en los edificios.
+· La ejecución del proyecto no estará a disposición del público general. Lo ejecutará este equipo bajo demanda o equipos locales preparados por nosotros.
+· La arquitectura será muy sencilla, de ejecución "on promise" hasta que se consigan fondos por parte de las organizaciones locales para una ejecución basada en nubes. Una vez se ejecute en nube,  
+  la arquitectura sólo contará con un bucket de almacenamiento tipo Google Drive/Storage, y de un servidor de notebooks tipo Colab conectado al almacenamiento. Ya que no es una tarea de necesidad  
+  en tiempo real, la potencia básica de dichos servicios y la de los últimos euipos personales como los procesadores M de Apple serán suficientes.  
+  Actualmente, los problemas con el rendimiento de las cuentas básicas de Google (en nuestro caso) no nos han permitido ejecutar adecuadamente en la nube nuestra tarea, pero mantenemos una Demo de  
+  uso aquí:  
+  https://colab.research.google.com/drive/1muaaQSZV4goolxsYSn08FyEQJgAHW1My?usp=sharing
+· El pitch de nuestro proyecto es el Tableau que acompaña a este Readme y Notebook en este repositorio, "TABLEAU EARTHQUAKE.twbx"
+
+Esperamos que les ilusione tanto el proyecto como a nosotros.
